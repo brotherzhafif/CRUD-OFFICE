@@ -1,0 +1,12 @@
+C:\Users\User\Documents\Visual Basic Project\CRUD CRUD CRUD\bin\Debug\CRUD CRUD CRUD.exe.config
+C:\Users\User\Documents\Visual Basic Project\CRUD CRUD CRUD\bin\Debug\CRUD CRUD CRUD.exe
+C:\Users\User\Documents\Visual Basic Project\CRUD CRUD CRUD\bin\Debug\CRUD CRUD CRUD.pdb
+C:\Users\User\Documents\Visual Basic Project\CRUD CRUD CRUD\obj\Debug\CRUD CRUD CRUD.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Visual Basic Project\CRUD CRUD CRUD\obj\Debug\CRUD CRUD CRUD.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\Visual Basic Project\CRUD CRUD CRUD\obj\Debug\CRUD_CRUD_CRUD.Login.resources
+C:\Users\User\Documents\Visual Basic Project\CRUD CRUD CRUD\obj\Debug\CRUD_CRUD_CRUD.Properties.Resources.resources
+C:\Users\User\Documents\Visual Basic Project\CRUD CRUD CRUD\obj\Debug\CRUD CRUD CRUD.csproj.GenerateResource.cache
+C:\Users\User\Documents\Visual Basic Project\CRUD CRUD CRUD\obj\Debug\CRUD CRUD CRUD.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Basic Project\CRUD CRUD CRUD\obj\Debug\CRUD CRUD CRUD.exe
+C:\Users\User\Documents\Visual Basic Project\CRUD CRUD CRUD\obj\Debug\CRUD CRUD CRUD.pdb
+C:\Users\User\Documents\Visual Basic Project\CRUD CRUD CRUD\obj\Debug\CRUD_CRUD_CRUD.Home.resources
